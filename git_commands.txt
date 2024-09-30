@@ -2,3 +2,10 @@ git config --global user.name "enter username" [for creating username]
 
 git congif --global user.email "enter email"  [for creating email]
 
+git init -- [for intialise an empty repository ]
+
+git status---[for tracking untraked files]
+
+git add -A ---[add all untracked files to stanging area]
+
+git commit - "enter mesage requierd" ----[to move staged files to local repository]
