@@ -1,0 +1,4 @@
+git config --global user.name "enter username" [for creating username]
+
+git congif --global user.email "enter email"  [for creating email]
+
